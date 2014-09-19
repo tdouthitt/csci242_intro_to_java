@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Reticulation()
+comment0.text=\nConstructs\ a\ Reticulation\ Object\n\n
+comment1.params=pegs
+comment1.target=void\ setUpGame(ArrayList<Peg>)
+comment1.text=\nAllows\ the\ rules\ to\ recieve\ the\ set\ of\ \npegs\ being\ played\ with.\n@param\ ArrayList<Peg>\ pegs\ The\ pegs\ being\ used.\n\n
+comment2.params=event
+comment2.target=void\ actionPerformed(ActionEvent)
+comment2.text=\nPerforms\ a\ set\ of\ actions\ to\ determine\ the\noutcome\ and\ progress\ of\ the\ game\ after\ an\ \naction\ has\ been\ triggered.\n@param\ ActionEvent\ event\ The\ triggered\ event\n\n
+comment3.target=boolean\ isGameOver()
+comment3.text=\nPerforms\ a\ loop-ful\ check\ of\ all\ combinations\nof\ pegs\ and\ solutions\ to\ see\ if\ the\ game\nis\ over\ due\ to\ a\ lack\ of\ moves.\n\n
+comment4.target=boolean\ isWin()
+comment4.text=\nMethod\ that\ checks\ whether\nor\ not\ the\ game\ has\ been\ won\nby\ the\ player.\n@return\ boolean\ playerWins\ Whether\ or\ not\ the\ player\ has\ won.\n\n
+comment5.target=void\ clearVars()
+comment5.text=\nSets\ the\ utility\ variables\nto\ thier\ default,\ 'un-toucehed'\nstates\ for\ the\ next\ round\ of\ pegs.\n\n
+numComments=6

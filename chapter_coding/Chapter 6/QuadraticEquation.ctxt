@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=A\ B\ C
+comment0.target=QuadraticEquation(double,\ double,\ double)
+comment1.target=double\ getSolution1()
+comment2.target=double\ getSolution2()
+comment3.target=double\ getRoot()
+comment4.target=boolean\ hasSolutions()
+numComments=5

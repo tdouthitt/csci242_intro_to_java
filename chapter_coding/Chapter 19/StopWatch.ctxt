@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=StopWatch()
+comment0.text=\nConstructs\ a\ stopwatch\ that\ is\ in\ the\ stopped\ state\nand\ has\ no\ time\ accumulated.\n\n
+comment1.target=void\ start()
+comment1.text=\nStarts\ the\ stopwatch.\ Time\ starts\ accumulating\ now.\n\n
+comment2.target=void\ stop()
+comment2.text=\nStops\ the\ stopwatch.\ Time\ stops\ accumulating\ and\ is\nis\ added\ to\ the\ elapsed\ time.\n\n
+comment3.target=long\ getElapsedTime()
+comment3.text=\nReturns\ the\ total\ elapsed\ time.\n@return\ the\ total\ elapsed\ time\n\n
+comment4.target=void\ reset()
+comment4.text=\nStops\ the\ watch\ and\ resets\ the\ elapsed\ time\ to\ 0.\n\n
+numComments=5

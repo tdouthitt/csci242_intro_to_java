@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MenuFrame()
+comment0.text=\nConstructs\ the\ frame.\n\n
+comment1.target=JMenu\ createFileMenu()
+comment1.text=\nCreates\ the\ File\ menu.\n@return\ the\ menu\n\n
+comment2.target=JMenuItem\ createFileExitItem()
+comment2.text=\nCreates\ the\ File->Exit\ menu\ item\ and\ sets\ its\ action\ listener.\n@return\ the\ menu\ item\n\n
+comment3.target=JMenu\ createMusicMenu()
+comment3.text=\nCreates\ the\ Music\ menu.\n@return\ the\ menu\n\n
+comment4.target=JMenuItem\ createMusicSongItem()
+numComments=5

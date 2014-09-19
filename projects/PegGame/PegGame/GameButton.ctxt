@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=GameButton()
+comment0.text=\nBasic\ Constructor\ for\ object\ of\ class\ GameButton.\n\n
+comment1.params=aPosition\ aOccupied\ aClicked
+comment1.target=GameButton(int,\ boolean,\ boolean)
+comment1.text=\nConstructor\ for\ object\ of\ class\ GameButton\n@param\ \ \ aPosition\ -\ position\ number\ in\ board\ layout\naOccupied\ -\ true\ if\ spot\ is\ occupied,\ false\ is\ empty\n\n
+comment2.target=int\ getPosition()
+comment2.text=\nThis\ method\ will\ return\ the\ position\ number\ assigned\ to\ \nthe\ button\ object\ calling\ it\n@return\ \ position\ -\ the\ position\ number\ assigned\ to\ the\ corresponding\ button\n\n
+comment3.target=boolean\ getOccupied()
+comment3.text=\nThis\ method\ will\ return\ whether\ or\ not\ the\ button\ is\ \noccupied\ or\ empty\n@return\ \ occupied\ -\ true\ if\ space\ is\ occupied,\ false\ if\ empty\n\n
+comment4.target=boolean\ getClicked()
+comment4.text=\nThis\ method\ will\ return\ whether\ or\ not\ the\ button\ is\ \nclicked\ or\ not\n@return\ \ clicked\ -\ true\ if\ button\ was\ clicked,\ false\ if\ not\ clicked\n\n
+comment5.params=x
+comment5.target=void\ setOccupied(boolean)
+comment5.text=\nThis\ method\ is\ used\ to\ set\ a\ button's\ occupied\ parameter\ to\na\ corresponding\ boolean\ assignment.(true,\ false)\n@param\ \ \ x\ -\ this\ is\ the\ new\ value\ to\ be\ assigned\ to\ the\ button\n\n\n
+comment6.params=y
+comment6.target=void\ setClicked(boolean)
+comment6.text=\nThis\ method\ is\ used\ to\ set\ a\ button's\ clicked\ parameter\ to\na\ corresponding\ boolean\ assignment.(true,\ false)\n@param\ \ \ y\ -\ this\ is\ the\ new\ value\ to\ be\ assigned\ to\ the\ button\n\n\n
+numComments=7

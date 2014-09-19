@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Outcome()
+comment0.text=\nConstructor\ for\ object\ of\ class\ Outcome.\n\n
+comment1.params=button\ temp\ access
+comment1.target=boolean\ endGame(GameButton[],\ Peg[],\ Rules)
+comment1.text=\nThis\ method\ will\ run\ through\ the\ Array\ holding\ the\ peg\ objects,\nthe\ method\ will\ loop\ through\ the\ array\ testing\ to\ see\ if\ each\ peg\ can\ move,\nif\ a\ peg\ may\ move\ endGame\ is\ false\ indicating\ acceptable\ moves\ are\ available,\nif\ none\ of\ the\ pegs\ may\ move\ then\ endGame\ is\ true\ indicating\ the\ game\ is\ over.\n@param\ \ \ button\ -\ passes\ GameButton[]\ object\ for\ use\ in\ the\ method\ntemp\ -\ passes\ ArrayList<Peg>\ object\ for\ use\ in\ the\ method\naccess\ -\ passes\ Rules\ object\ for\ use\ in\ the\ method\n@return\ \ \ \ \ \ false\ if\ acceptable\ moves\ available,\ true\ if\ no\ moves\ available\n\n
+comment2.params=button\ temp\ access\ temp1
+comment2.target=boolean\ isWinner(GameButton[],\ Peg[],\ Rules,\ ArrayList<Peg>)
+comment2.text=\nthis\ method\ determines\ whether\ the\ game\ is\ a\ win\ or\ a\ loss\ depending\ on\ the\ number\nof\ pegs\ left\ on\ the\ board\ when\ endGame\ is\ found\ to\ be\ true.\n@param\ \ \ button\ -\ passes\ GameButton[]\ object\ for\ use\ in\ the\ method\ntemp\ -\ passes\ Peg[]\ object\ for\ use\ in\ the\ method\naccess\ -\ passes\ Rules\ object\ for\ use\ in\ the\ method\ntemp1\ -\ passes\ ArrayList<Peg>\ object\ for\ use\ in\ the\ method\n@return\ \ isWinner\ -\ false\ if\ pegs\ on\ board\ exceed\ one,\ true\ if\ pegs\ on\ board\ are\ one\n\n
+comment3.params=button\ temp\ access\ temp1
+comment3.target=void\ message(GameButton[],\ Peg[],\ Rules,\ ArrayList<Peg>)
+comment3.text=\nthis\ method\ will\ display\ a\ message\ depending\ on\ the\ Outcome\ found\ in\ isWinner,\ndepending\ on\ the\ number\ of\ pegs\ left\ on\ the\ board\ it\ will\ display\ different\ messages.\n@param\ \ \ button\ -\ passes\ GameButton[]\ object\ for\ use\ in\ the\ method\ntemp\ -\ passes\ Peg[]\ object\ for\ use\ in\ the\ method\naccess\ -\ passes\ Rules\ object\ for\ use\ in\ the\ method\ntemp1\ -\ passes\ ArrayList<Peg>\ object\ for\ use\ in\ the\ method\n\n
+numComments=4

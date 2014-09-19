@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Sentence()
+comment1.params=phrase
+comment1.target=void\ reverse(String)
+comment2.target=String\ getText()
+numComments=3

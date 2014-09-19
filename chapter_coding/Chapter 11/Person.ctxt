@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=aName\ aHeight
+comment0.target=Person(String,\ double)
+comment1.target=String\ getName()
+comment2.target=double\ getHeight()
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Clicker()
+comment0.text=\nConstructor\ for\ the\ clicker\ object\ of\ the\ class\ Clicker\n\n
+comment1.target=int\ checkClick()
+comment1.text=\nThis\ method\ will\ return\ the\ clicker\ object's\ current\ 'check'\ or\ the\nnumber\ of\ clicks\ that\ the\ system\ is\ currently\ at.\n@return\ check-\ the\ number\ signifying\ which\ click\ the\ user\ is\ on\ (1\ or\ 2)\n\n
+comment2.target=void\ clickOne()
+comment2.text=\nThis\ method\ sets\ the\ clicker\ object\ so\ that\ it\ has\ an\ integer\ value\ of\ \n1.\ This\ means\ that\ the\ user\ has\ clicked\ something\ on\ the\ board,\ and\ it\ is\ntheir\ first\ time\ clicking\ a\ button.\n\n
+comment3.target=void\ clickTwo()
+comment3.text=\nThis\ method\ sets\ the\ clicker\ object\ so\ that\ it\ has\ an\ integer\ value\ of\ \n2.\ This\ means\ that\ the\ user\ has\ clicked\ something\ on\ the\ board,\ \nand\ that\ it\ is\ their\ second\ time\ clicking\ a\ button.\n\n
+numComments=4

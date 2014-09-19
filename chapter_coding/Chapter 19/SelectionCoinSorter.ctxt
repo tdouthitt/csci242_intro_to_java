@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=anArray
+comment0.target=SelectionCoinSorter(Coin[])
+comment0.text=\nConstructs\ a\ selection\ sorter.\n@param\ anArray\ the\ array\ to\ sort\n\n
+comment1.target=void\ sort()
+comment1.text=\nSorts\ the\ array\ managed\ by\ this\ selection\ sorter.\n\n
+comment2.params=from
+comment2.target=int\ minPosition(int)
+comment2.text=\nFinds\ the\ smallest\ element\ in\ a\ tail\ range\ of\ the\ array.\n@param\ from\ the\ first\ position\ in\ a\ to\ compare\n@return\ the\ position\ of\ the\ smallest\ element\ in\ the\nrange\ a[from]\ .\ .\ .\ a[a.length\ -\ 1]\n\n
+comment3.params=i\ j
+comment3.target=void\ swap(int,\ int)
+comment3.text=\nSwaps\ two\ entries\ of\ the\ array.\n@param\ i\ the\ first\ position\ to\ swap\n@param\ j\ the\ second\ position\ to\ swap\n\n
+numComments=4

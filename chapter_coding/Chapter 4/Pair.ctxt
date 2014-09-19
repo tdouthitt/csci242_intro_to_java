@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=aFirst\ aSecond
+comment0.target=Pair(double,\ double)
+comment1.target=double\ getSum()
+comment2.target=double\ getDifference()
+comment3.target=double\ getProduct()
+comment4.params=amount
+comment4.target=double\ getAverage(double)
+comment5.target=double\ getDistance()
+comment6.target=double\ getMax()
+comment7.target=double\ getMin()
+numComments=8

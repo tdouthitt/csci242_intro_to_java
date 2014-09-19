@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=PrimeGenerator()
+comment1.target=int\ nextPrime()
+comment2.target=boolean\ isPrime()
+numComments=3

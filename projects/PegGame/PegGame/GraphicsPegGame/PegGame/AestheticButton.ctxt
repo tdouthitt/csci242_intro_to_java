@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=AestheticButton()
+comment0.text=\nConstructs\ a\ GameButton\nwith\ the\ benefits\ of\ an\nAesthetic\ button.\n\n
+comment1.target=void\ makeEmpty()
+comment1.text=\nMethod\ used\ for\ncreating\ completely\nempty\ and\ white\ buttons\nwith\ no\ purpose\ or\ use.\n\n
+comment2.target=void\ makeTitle()
+comment2.text=\nMethod\ used\ to\ display\nthe\ title\ in\ a\ big,\ncolorful\ button.\n\n
+numComments=3

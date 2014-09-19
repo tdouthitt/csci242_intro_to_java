@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=NEEDMONEYException()
+comment1.params=message
+comment1.target=NEEDMONEYException(String)
+numComments=2

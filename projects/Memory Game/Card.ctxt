@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Card()
+comment0.text=\nBasic\ Constructor\ for\ object\ of\ class\ Card.\n\n
+comment1.params=aMatch\ aClicked
+comment1.target=Card(int,\ boolean)
+comment2.target=int\ getMatch()
+comment3.target=boolean\ getClicked()
+comment3.text=\nThis\ method\ will\ return\ whether\ or\ not\ the\ button\ is\ \nclicked\ or\ not\n@return\ \ clicked\ -\ true\ if\ button\ was\ clicked,\ false\ if\ not\ clicked\n\n
+comment4.params=y
+comment4.target=void\ setClicked(boolean)
+numComments=5

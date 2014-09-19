@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=phrase
+comment0.target=Sentence2(String)
+comment1.params=aWord
+comment1.target=boolean\ find(String)
+numComments=2

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=LathGUI()
+comment0.text=\nCalls\ the\ method\ to\nconstruct\ the\ "board".\n\n
+comment1.target=void\ makeFrame()
+comment1.text=\nCalls\ the\ order\ of\ sequence\nin\ order\ to\ create\ the\ngame\ and\ the\ board.\n\n
+comment2.target=void\ setLayouts()
+comment2.text=\nEstablishes\ the\ layouts\nfor\ both\ panes\ of\ the\ game.\n\n
+comment3.target=void\ addPegs()
+comment3.text=\nAdds\ multiple\ pegs\ to\ the\nGridLayout\ of\ the\ triangle\ panel.\nAlso\ writes\ those\ pegs\ to\ an\ array\nto\ be\ used\ for\ calculating\ rules.\n\n
+comment4.target=void\ addTitle()
+comment4.text=\nConfigures\ the\ titlePanel\ with\ngraphics\ and\ specifications.\ \n\n
+comment5.target=void\ organizePanes()
+comment5.text=\nPlaces\ the\ sub-panels\ onto\ the\ main\ one.\n\n
+comment6.target=void\ initializeGame()
+comment6.text=\nSends\ the\ array\ of\ pegs\ to\ the\ \npowerhouse\ of\ the\ game\ to\ being\ playing.\n\n
+comment7.target=void\ frameConfig()
+comment7.text=\nSets\ the\ content\ pane\ and\nconfigures\ the\ last\ settings\ of\nthe\ frame.\ \n\n
+numComments=8

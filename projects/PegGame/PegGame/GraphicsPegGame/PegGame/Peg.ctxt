@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Peg()
+comment0.text=\nConstructs\ a\ GameButton\ with\nall\ of\ the\ added\ benefits\ and\nmethods\ of\ a\ Peg\ button.\n\n
+comment1.params=s
+comment1.target=void\ setCondition(String)
+comment1.text=\nMethod\ used\ to\ change\ the\ \ngraphic\ on\ the\ button\ to\ indicate\nthe\ status\ of\ the\ Peg.\n@param\ String\ s\ The\ condition\ to\ set.\n\n
+comment2.target=int\ getCondition()
+comment2.text=\nMethod\ used\ to\ return\ the\nvalue\ of\ the\ hole\ status.\n@return\ int\ holeStatus\ The\ status\ of\ the\ hole\n\n
+numComments=3

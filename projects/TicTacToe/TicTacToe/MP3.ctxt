@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=filename
+comment0.target=MP3(String)
+comment1.target=void\ close()
+comment2.target=void\ play()
+numComments=3

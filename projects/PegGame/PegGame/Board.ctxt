@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Board()
+comment0.text=\nConstructor\ for\ the\ class\ Board.\ The\ constructor\ calls\ the\ method\ createBoard.\nThis\ then\ constructs\ the\ board\ frame\ and\ initiates\ the\ setup\ of\ the\ game.\ \n\n
+comment1.target=void\ createBoard()
+comment1.text=\nThis\ method\ will\ call\ other\ methods\ at\ the\ same\ time.\ This\ essentially\ sets\ up\ and\ puts\ntogether\ the\ brains\ of\ the\ system.\ It\ creates\ all\ of\ the\ buttons,\ organizes\ all\ of\ the\ panels,\ and\ sets\ the\ parameters\ for\ the\ frame.\ It\ also\ adds\ an\ asthetic\ character\ to\ the\ frame.\n\n
+comment2.target=void\ createButtons()
+comment2.text=\nThis\ method\ creates\ all\ of\ the\ buttons\ for\ the\ came.\ It\ creates\ 45\ buttons,\ 15\ actual\ game\ buttons\ and\ 30\ \nfake\ buttons\ to\ initialize\ the\ layout.\ This\ class\ also\ adds\ all\ of\ the\ buttons\ their\ panel\ \nand\ adds\ the\ action\ listeners\ to\ the\ buttons.\n\n
+comment3.target=void\ organizePanels()
+comment3.text=\nThis\ method\ organizes\ the\ two\ sub-panels.\ It\ takes\ the\ game\ panel\ with\ all\ the\ buttons\ in\ it\ \nand\ sets\ it\ to\ the\ middle\ of\ the\ main\ panel.\ It\ takes\ the\ other\ panel\ with\ the\ asthetic\ character\ and\ adds\ it\nto\ the\ main\ panel\ at\ the\ west\ position.\n\n
+comment4.target=void\ setFrame()
+comment4.text=\nThis\ method\ sets\ all\ the\ settings\ for\ the\ frame.This\ includes\ the\ frames\ dimensions,\ title,\ \nclose\ operation,\ visibility,\ and\ adding\ in\ the\ main\ panel\n\n
+comment5.target=void\ setTheme()
+comment5.text=\nThis\ method\ adds\ the\ asthetic\ character\ button\ to\ the\ extra\ frame.\ It\ also\ adds\ to\ fake\ buttons\ to\ set\nthe\ proper\ layout\ of\ the\ panel.\ It\ sets\ icon\ of\ the\ character\ to\ the\ asthetic\ button.\ Lastly\ it\ adds\ the\ buttons\nto\ the\ panel.\n\n
+numComments=6

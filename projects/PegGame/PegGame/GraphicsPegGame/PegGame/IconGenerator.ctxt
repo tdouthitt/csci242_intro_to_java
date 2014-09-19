@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=IconGenerator()
+comment0.text=\nConstructs\ an\ IconGenerator\ object\nwith\ four\ icon\ images\ stored\:\na\ hole\ with\ a\ peg,\ and\ an\ empty\ hole,\ a\ title,\nand\ a\ red\ 'selected-peg'\ graphic\n(Precondition\:\ the\ files\ "empty.gif",\ "title.gif,"\n"full.gif"\ and\ "selected.gif"\ are\ in\ the\ folder\ of\ the\ project.)\n\n
+comment1.target=ImageIcon\ getEmptyIcon()
+comment1.text=\nReturns\ the\ emptyIcon\n@return\ ImageIcon\ emptyIcon\n\n
+comment2.target=ImageIcon\ getFullIcon()
+comment2.text=\nReturns\ the\ fullIcon\n@return\ ImageIcon\ fullIcon\n\n
+comment3.target=ImageIcon\ getTitleIcon()
+comment3.text=\nReturns\ the\ titleIcon\n@return\ ImageIcon\ titleIcon\n\n
+comment4.target=ImageIcon\ getSelectedIcon()
+comment4.text=\nReturns\ the\ selectedIcon\n@return\ ImageIcon\ selectedIcon\n\n
+numComments=5

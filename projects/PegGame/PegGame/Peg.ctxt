@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=aLocation
+comment0.target=Peg(int)
+comment0.text=\nConstructor\ for\ object\ of\ class\ Peg\n@param\ \ \ aLocation\ -\ this\ number\ will\ be\ the\ peg's\ starting\ \nposition\ on\ the\ board\n\n
+comment1.target=int\ getLocation()
+comment1.text=\nThis\ method\ will\ return\ the\ peg\ object's\ current\ location\nnumber\n@return\ \ location\ -\ number\ designating\ place\ on\ Peg\ board\n\n
+comment2.params=set
+comment2.target=void\ setLocation(int)
+comment3.params=button\ access\ temp\ temp1
+comment3.target=void\ makeMove(GameButton[],\ Rules,\ Peg[],\ ArrayList<Peg>)
+comment3.text=\nThis\ method\ will\ call\ canMove()\ to\ see\ if\ it\ is\ able\ to\ move,\nif\ it\ can\ it\ will\ simulate\ the\ movement\ of\ a\ Peg\ by\ changing\nvalues\ of\ the\ button\ and\ peg\ objects\ following\ the\ guidelines\ of\ \nthe\ PegGame\ rules\n\n@param\ \ \ button\ -\ passes\ GameButton[]\ object\ for\ use\ in\ the\ method\ntemp\ -\ passes\ ArrayList<Peg>\ object\ for\ use\ in\ the\ method\naccess\ -\ passes\ Rules\ object\ for\ use\ in\ the\ method\n\n\n
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Rules()
+comment0.text=\nConstructor\ for\ object\ of\ class\ Rules.\n\n
+comment1.params=peg\ button\ temp
+comment1.target=boolean\ canMove(Peg,\ GameButton[],\ Peg[])
+comment1.text=\nThis\ method\ determines\ whether\ or\ not\ the\ peg\ has\ an\ acceptable\ move\ it\ can\ make\n@param\ \ \ button\ -\ passes\ GameButton[]\ object\ for\ use\ in\ the\ method\ntemp\ -\ passes\ Peg[]\ object\ for\ use\ in\ the\ method\npeg\ -\ passes\ a\ Peg\ object\ for\ use\ in\ the\ method\n@return\ \ \ canMove\ -\ true\ if\ the\ peg\ has\ an\ acceptable\ move,\ false\ if\ the\ peg\ does\ not\ have\ an\ acceptable\ move\n\n
+numComments=2

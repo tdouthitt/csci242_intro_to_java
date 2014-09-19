@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=GameButton()
+comment0.text=\nConstructs\ a\ GameButton\ without\na\ border,\ or\ margins.\ Also,\nflaunts\ a\ white\ background.\n\n
+numComments=1
